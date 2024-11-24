@@ -1,0 +1,62 @@
+.elementor-kit-6{--e-global-color-primary:#F3F0EB;--e-global-color-secondary:#131212;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-960f176:#F3F0EB;--e-global-color-32301fd:#FFFFFF;--e-global-color-e19dbd5:#FF5C00;--e-global-color-e3d80be:#E1FF01;--e-global-color-0ef74c1:#0A0A0A;--e-global-color-cb5ddf7:#1D6362;--e-global-color-7199ded:#1D1E25;--e-global-color-e398c72:#1D6362;--e-global-color-7fd69a6:#FFFFFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-abb8bb2-font-family:"Satoshi";--e-global-typography-abb8bb2-font-size:128px;--e-global-typography-abb8bb2-font-weight:500;--e-global-typography-abb8bb2-text-transform:uppercase;--e-global-typography-abb8bb2-line-height:115px;--e-global-typography-abb8bb2-letter-spacing:-8px;--e-global-typography-8b79f5f-font-family:"General Sans";--e-global-typography-8b79f5f-font-size:14px;--e-global-typography-8b79f5f-font-weight:500;--e-global-typography-8b79f5f-text-transform:uppercase;--e-global-typography-8b79f5f-line-height:24px;--e-global-typography-3995602-font-family:"Satoshi";--e-global-typography-3995602-font-size:16px;--e-global-typography-3995602-font-weight:500;--e-global-typography-3995602-text-transform:uppercase;--e-global-typography-caa37eb-font-family:"Satoshi";--e-global-typography-caa37eb-font-size:32px;--e-global-typography-caa37eb-font-weight:500;--e-global-typography-caa37eb-text-transform:uppercase;--e-global-typography-a870e2f-font-family:"Satoshi";--e-global-typography-a870e2f-font-size:100px;--e-global-typography-a870e2f-font-weight:500;--e-global-typography-a870e2f-text-transform:uppercase;--e-global-typography-a870e2f-line-height:90px;--e-global-typography-a870e2f-letter-spacing:-8px;--e-global-typography-6440f9c-font-family:"Satoshi";--e-global-typography-6440f9c-font-size:16px;--e-global-typography-6440f9c-font-weight:500;--e-global-typography-6440f9c-text-transform:none;--e-global-typography-863a692-font-family:"Inter";--e-global-typography-863a692-font-size:64px;--e-global-typography-863a692-font-weight:400;--e-global-typography-863a692-line-height:64px;--e-global-typography-863a692-letter-spacing:-2px;--e-global-typography-1cfe216-font-family:"Inter";--e-global-typography-1cfe216-font-size:14px;--e-global-typography-1cfe216-font-weight:400;--e-global-typography-1cfe216-text-transform:uppercase;--e-global-typography-1cfe216-line-height:14px;--e-global-typography-1cfe216-letter-spacing:0px;--e-global-typography-93e64d9-font-family:"Inter";--e-global-typography-93e64d9-font-size:18px;--e-global-typography-93e64d9-font-weight:500;--e-global-typography-b2a6f22-font-family:"Inter";--e-global-typography-b2a6f22-font-size:56px;--e-global-typography-b2a6f22-font-weight:600;--e-global-typography-b2a6f22-line-height:60px;--e-global-typography-b2a6f22-letter-spacing:-1px;background-color:#F9FAFC;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}body{overflow-x:inherit !important;}.elementor a, .elementor a:link, .elementor a:focus, .elementor a:active, .elementor a:hover{text-decoration:inherit !important;}.elementor a:link, .elementor .smooth-hover a:link, {transition:inherit;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1240px;}.e-con{--container-max-width:1240px;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/10/Satoshi-Regular.eot');
+	src: url('/wp-content/uploads/2023/10/Satoshi-Regular.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2023/10/Satoshi-Regular.woff') format('woff'),
+		url('/wp-content/uploads/2023/10/Satoshi-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/10/Satoshi-Medium.eot');
+	src: url('/wp-content/uploads/2023/10/Satoshi-Medium.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2023/10/Satoshi-Medium.woff') format('woff'),
+		url('/wp-content/uploads/2023/10/Satoshi-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Satoshi';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/10/Satoshi-Bold.eot');
+	src: url('/wp-content/uploads/2023/10/Satoshi-Bold.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2023/10/Satoshi-Bold.woff') format('woff'),
+		url('/wp-content/uploads/2023/10/Satoshi-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'General Sans';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/10/GeneralSans-Medium.eot');
+	src: url('/wp-content/uploads/2023/10/GeneralSans-Medium.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2023/10/GeneralSans-Medium.woff') format('woff'),
+		url('/wp-content/uploads/2023/10/GeneralSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'General Sans';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/10/GeneralSans-Regular.eot');
+	src: url('/wp-content/uploads/2023/10/GeneralSans-Regular.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2023/10/GeneralSans-Regular.woff') format('woff'),
+		url('/wp-content/uploads/2023/10/GeneralSans-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'General Sans';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/10/GeneralSans-Bold.eot');
+	src: url('/wp-content/uploads/2023/10/GeneralSans-Bold.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2023/10/GeneralSans-Bold.woff') format('woff'),
+		url('/wp-content/uploads/2023/10/GeneralSans-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
